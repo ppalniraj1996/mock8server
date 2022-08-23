@@ -1,4 +1,4 @@
-{
+
   "employee": [
     {
       "name": "Masai",
@@ -7,5 +7,20 @@
       "mobile": "0132345678 ",
       "description": "Masai is Learning Platform"
     }
-  ],
-}
+  ]
+
+
+"signup":[
+  {
+    "name":"Niraj",
+    "email":"ppalniraj0123@gmail.com",
+    "password":"12345678"
+  }
+]
+
+"home":[
+  {
+    url:"home"
+  }
+]
+
