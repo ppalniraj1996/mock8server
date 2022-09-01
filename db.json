@@ -1,25 +1,10 @@
 {
-  "employee": [
+  "users": [
     {
-      "name": "Masai",
-      "email": "masai0123@gmail.com",
-      "username": "masai0123",
-      "mobile": "0132345678 ",
-      "description": "Masai is Learning Platform"
-    }
-  ],
-
-  "signup": [
-    {
-      "name": "Niraj",
-      "email": "ppalniraj0123@gmail.com",
-      "password": "12345678"
-    }
-  ],
-
-  "home": [
-    {
-      "url": "home"
+      "title": "Chaitu",
+      "description": "chaitu is nice guy",
+      "date": "2022-09-29",
+      "id": 5
     }
   ]
 }
